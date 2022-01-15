@@ -1,6 +1,6 @@
 # LinkedIn-Clone
 
---- ## This LinkedIn Clone is coded as a homework for [Patika.dev](https://patika.dev).
+## This LinkedIn Clone is coded as a homework for [Patika.dev](https://patika.dev).
 
 ![A screenshot of the clone](screenshot.png)
 
